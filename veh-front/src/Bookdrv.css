@@ -1,0 +1,376 @@
+
+
+.bd__b1
+{
+
+    position: absolute;
+    width: 200px;
+    height: 32px;
+    left: 203px;
+    top: 784px;
+    
+    background: #BD002C;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 2px;
+    font-family: Metropolis;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 16px;
+
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+.bd__nam
+{
+    /* Honda Activa */
+
+position: absolute;
+width: 293px;
+height: 59px;
+left: 692px;
+top: 362px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 50px;
+line-height: 59px;
+
+/* identical to box height */
+
+color: #000000;
+}
+
+.bd__rup
+{
+    /* Vector */
+
+position: absolute;
+left: 41.68%;
+
+top: 48.22%;
+
+
+color: #000000;
+}
+
+.bd__nam1
+{
+    /* 50,000.00 */
+
+position: absolute;
+width: 176px;
+height: 47px;
+left: 738px;
+top: 439px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+
+/* identical to box height */
+
+color: #000000;
+}
+
+.bd__nam2
+{
+    /* Ex showroom price */
+
+position: absolute;
+width: 168px;
+height: 23px;
+left: 933px;
+top: 478px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+
+
+}
+
+.bd__nam3
+{
+    /* Specification */
+
+position: absolute;
+width: 148px;
+height: 29px;
+left: 696px;
+top: 549px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 29px;
+
+color: #000000;
+
+
+}
+
+.bd__nam4
+{
+    position: absolute;
+    width: 682px;
+    height: 144px;
+    left: 647px;
+    top: 608px;
+    
+    font-family: Metropolis;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 200%;
+    
+    /* or 44px */
+    text-align: center;
+    
+    color: #23292C;
+    
+}
+.bd__nam5
+{
+    position: absolute;
+width: 682px;
+height: 144px;
+left: 647px;
+top: 663px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 200%;
+
+/* or 44px */
+text-align: center;
+
+color: #23292C;
+
+
+}
+
+.bd__nam6
+{
+    position: absolute;
+width: 682px;
+height: 144px;
+left: 647px;
+top: 717px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 200%;
+
+/* or 44px */
+text-align: center;
+
+color: #23292C;
+
+
+}
+
+.bd__nam7
+{
+    position: absolute;
+width: 682px;
+height: 144px;
+left: 647px;
+top: 772px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 200%;
+
+/* or 44px */
+text-align: center;
+
+color: #23292C;
+
+
+}
+
+
+.bd__nam8
+{
+    /* Key features */
+
+position: absolute;
+width: 141px;
+height: 29px;
+left: 694px;
+top: 880px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 29px;
+
+color: #000000;
+
+
+}
+
+.bd__nam9
+{
+    /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+position: absolute;
+width: 682px;
+height: 144px;
+left: 647px;
+top: 938px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 200%;
+
+/* or 44px */
+text-align: center;
+
+color: #23292C;
+}
+
+.bd__nam10
+{
+    /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+position: absolute;
+width: 682px;
+height: 144px;
+left: 647px;
+top: 993px;
+
+
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 200%;
+
+/* or 44px */
+text-align: center;
+
+color: #23292C;
+}
+
+.bd__nam11
+{
+    /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+position: absolute;
+width: 682px;
+height: 144px;
+left: 647px;
+top: 1047px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 200%;
+
+/* or 44px */
+text-align: center;
+
+color: #23292C;
+}
+
+.bd__nam12
+{
+    /* Lorem ipsum dolor sit amet, consectetur adipiscing elit. */
+
+position: absolute;
+width: 682px;
+height: 144px;
+left: 647px;
+top: 1102px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 200%;
+
+/* or 44px */
+text-align: center;
+
+color: #23292C;
+}
+
+.bd__nam13
+{
+    /* Colour Variant */
+
+position: absolute;
+width: 162px;
+height: 29px;
+left: 696px;
+top: 1191px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 29px;
+
+color: #000000;
+}
+
+.bd__c1
+{
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 696px;
+    top: 1256px;
+    
+    color: #9A3843;
+}
+
+.bd__c2
+{
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 786px;
+    top: 1256px;
+    
+    color: #646672;
+}
+
+
+.bd__c3
+{
+
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 874px;
+    top: 1256px;
+    
+    color: #8E626E;
+}

@@ -1,0 +1,1652 @@
+
+.mr__box
+{
+    /* surface */
+
+position: absolute;
+width: 1439px;
+height: 93px;
+left: 131px;
+top: 96px;
+
+background: #EEEBEB;
+
+/* Top nav bar elevation */
+box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.16);
+}
+
+.mr__logo
+{
+    position: absolute;
+width: 218px;
+height: 227px;
+left: 141px;
+top: 7px;
+
+background: url(TT.png);
+}
+
+.mr__nam1
+{
+    position: absolute;
+width: 74px;
+height: 24px;
+left: 390px;
+top: 129px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 24px;
+
+/* identical to box height */
+
+color: #393d45;
+
+
+}
+
+.mr__rect1
+{
+    
+position: absolute;
+width: 50px;
+height: 1px;
+left: 1411px;
+top: 160px;
+
+background: #DB1505;
+}
+
+.mr__nam2
+{
+    
+position: absolute;
+width: 140px;
+height: 18px;
+left: 524px;
+top: 131px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 18px;
+
+/* identical to box height */
+
+color: #393D45;
+}
+
+.mr__nam3
+{
+    position: absolute;
+width: 69px;
+height: 18px;
+left: 719px;
+top: 131px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 18px;
+
+/* identical to box height */
+
+color: #393D45;
+
+
+}
+
+.mr__bik1
+{
+    position: absolute;
+width: 50px;
+height: 100px;
+left: 299px;
+top: 2341px;
+
+background: url(Bikett.png);
+}
+
+.mr__nam4
+{
+    position: absolute;
+width: 226px;
+height: 18px;
+left: 843px;
+top: 131px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 18px;
+
+/* identical to box height */
+
+color: #393D45;
+
+
+}
+
+.mr__nam5
+{
+    position: absolute;
+width: 171px;
+height: 18px;
+left: 1135px;
+top: 131px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 18px;
+
+/* identical to box height */
+
+color: #393D45;
+}
+
+.mr__nam6
+{
+    position: absolute;
+width: 85px;
+height: 18px;
+left: 1394px;
+top: 131px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 18px;
+
+/* identical to box height */
+
+color: #DB1505;
+
+
+}
+
+.Mr__im1 
+{
+    
+position: absolute;
+width: 1440px;
+height: 718.18px;
+left: 0px;
+top: 58px;
+opacity: 0;
+background: url(Bike.jpg);
+backdrop-filter: blur(50px);
+}
+
+.slidemre-container
+{
+    position: absolute;
+    text-align: center;
+    top: 200px;
+    
+    width: 1640px;
+    
+    height: 2140;
+}
+.mre__img
+{
+    background: url('image\ 89.png');
+    background-repeat: no-repeat;
+    align-content: center;
+    text-align: center;
+    width: 2000px;
+    height: 500px;
+    background-position: center;
+}
+
+.mre__img1{
+    background: url('image\ 89.png');
+    background-repeat: no-repeat;
+    align-content: center;
+    text-align: center;
+    width: 2000px;
+    height: 500px;
+    background-position: center;
+}
+
+.Mr__nam
+{
+    
+position: absolute;
+width: 268px;
+height: 53px;
+left: 697px;
+top: 299px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 45px;
+line-height: 53px;
+
+/* identical to box height */
+
+color: red;
+}
+
+.Mr__b1
+{
+    position: absolute;
+width: 209px;
+height: 52px;
+left: 619px;
+top: 381px;
+color: blue;
+border-radius: 4px;
+}
+
+.Mr__b2
+{
+    position: absolute;
+width: 209px;
+height: 52px;
+left: 835px;
+top: 381px;
+
+color: blue;
+border-radius: 4px;
+}
+
+.mr__mes
+{
+    position: absolute;
+    left: 160px;
+    top: 70px;
+}
+
+.Mr__b32
+{
+    position: absolute;
+left: 45.75%;
+top: 28.75%;
+
+color: #000000;
+}
+
+.Mr__b3
+{
+    position: absolute;
+width: 374px;
+height: 297px;
+left: 121px;
+top: 876px;
+
+background: #EAEAEA;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 12px;
+}
+
+.Mr__nam1
+{
+    position: absolute;
+width: 260px;
+height: 144px;
+left: 68px;
+top: 150px;
+
+font-family: Karla;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 200%;
+
+/* or 44px */
+text-align: center;
+
+color: #23292C;
+}
+
+.Mr__b4
+{
+    position: absolute;
+width: 374px;
+height: 297px;
+left: 633px;
+top: 876px;
+
+background: #EAEAEA;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 12px;
+}
+
+.Mr__b41
+{
+    position: absolute;
+left: 41.33%;
+top: 23.33%;
+
+color: #000000;
+}
+
+.Mr__b42
+{
+    position: absolute;
+width: 260px;
+height: 144px;
+left: 60px;
+top: 160px;
+
+font-family: Karla;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 200%;
+
+/* or 44px */
+text-align: center;
+
+color: #23292C;
+
+
+}
+
+.Mr__b5 
+{
+    
+position: absolute;
+width: 374px;
+height: 297px;
+left: 1145px;
+top: 876px;
+
+background: #EAEAEA;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 12px;
+}
+
+.Mr__b51
+{
+    position: absolute;
+left: 40.33%;
+
+top: 25%;
+
+
+color: #000000;
+}
+
+.Mr__b52
+{
+    
+position: absolute;
+width: 260px;
+height: 144px;
+left: 62px;
+
+top: 45%;
+
+
+font-family: Karla;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 200%;
+
+/* or 44px */
+text-align: center;
+
+color: #23292C;
+
+
+}
+
+.Mr__nam2
+{
+    position: absolute;
+    width: 127px;
+    height: 35px;
+    left: 766px;
+    top: 1285px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 35px;
+    text-decoration-line: underline;
+    
+    color: #C81E2D;
+    
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);  
+}
+
+.Mr__rectb
+{
+    position: absolute;
+width: 1948.66px;
+height: 931px;
+left: -8.66px;
+top: 1257px;
+
+background: linear-gradient(0deg, #F7FCFE, #F7FCFE), #EFE7E7;
+box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.Mr__rect1
+{
+    
+position: absolute;
+width: 295px;
+height: 313px;
+left: 93px;
+top: 1358px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 4px;
+}
+
+.Mr__recta11
+{
+    position: absolute;
+width: 295px;
+height: 165.79px;
+left: 0px;
+top: 8px;
+background: url(Bikes.jpg);
+}
+
+.Mr__rect12
+{
+    position: absolute;
+width: 130px;
+height: 26px;
+left: 20px;
+top: 190px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+
+/* identical to box height */
+
+color: #312E2E;
+}
+
+.Mr__rect13
+{
+    position: absolute;
+left: 55%;
+right: 78.61%;
+top: 61.51%;
+bottom: 62%;
+
+color: #FBBC05;
+}
+
+.Mr__rect14
+{
+    position: absolute;
+    left: 65%;
+    right: 78.61%;
+    top: 61.51%;
+    bottom: 62%;
+color: #FBBC05;
+}
+
+
+.Mr__rect15
+{
+    position: absolute;
+    left: 75%;
+    right: 78.61%;
+    top: 61.51%;
+    bottom: 62%;
+color: #FBBC05;
+}
+
+.Mr__rect1b
+{
+    position: absolute;
+width: 95px;
+height: 30px;
+left: 30%;
+top: 78%;
+
+background: #7A7981;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 4px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+.Mr__rect2
+{
+    
+position: absolute;
+width: 295px;
+height: 313px;
+left: 496px;
+top: 1358px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 4px;
+}
+
+.Mr__rect21
+{
+    position: absolute;
+width: 295px;
+height: 165.79px;
+left: 0px;
+top: 8px;
+background: url(Bikes.jpg);
+}
+
+.Mr__rect22
+{
+    position: absolute;
+width: 130px;
+height: 26px;
+left: 20px;
+top: 190px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+
+/* identical to box height */
+
+color: #312E2E;
+}
+
+.Mr__rect23
+{
+    position: absolute;
+left: 55%;
+right: 78.61%;
+top: 61.51%;
+bottom: 62%;
+
+color: #FBBC05;
+}
+
+.Mr__rect24
+{
+    position: absolute;
+    left: 65%;
+    right: 78.61%;
+    top: 61.51%;
+    bottom: 62%;
+color: #FBBC05;
+}
+
+
+.Mr__rect25
+{
+    position: absolute;
+    left: 75%;
+    right: 78.61%;
+    top: 61.51%;
+    bottom: 62%;
+color: #FBBC05;
+}
+
+.Mr__rect2b
+{
+    position: absolute;
+width: 95px;
+height: 30px;
+left: 30%;
+top: 78%;
+
+background: #7A7981;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 4px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+.Mr__rect3
+{
+    
+position: absolute;
+width: 295px;
+height: 313px;
+left: 901px;
+top: 1358px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 4px;
+}
+
+.Mr__rect31
+{
+    position: absolute;
+width: 295px;
+height: 165.79px;
+left: 0px;
+top: 8px;
+background: url(Bikes.jpg);
+}
+
+.Mr__rect32
+{
+    position: absolute;
+width: 130px;
+height: 26px;
+left: 20px;
+top: 190px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+
+/* identical to box height */
+
+color: #312E2E;
+}
+
+.Mr__rect33
+{
+    position: absolute;
+left: 55%;
+right: 78.61%;
+top: 61.51%;
+bottom: 62%;
+
+color: #FBBC05;
+}
+
+.Mr__rect34
+{
+    position: absolute;
+    left: 65%;
+    right: 78.61%;
+    top: 61.51%;
+    bottom: 62%;
+color: #FBBC05;
+}
+
+
+.Mr__rect35
+{
+    position: absolute;
+    left: 75%;
+    right: 78.61%;
+    top: 61.51%;
+    bottom: 62%;
+color: #FBBC05;
+}
+
+.Mr__rect3b
+{
+    position: absolute;
+width: 95px;
+height: 30px;
+left: 30%;
+top: 78%;
+
+background: #7A7981;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 4px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+.Mr__rect4
+{
+    
+position: absolute;
+width: 295px;
+height: 313px;
+left: 1294px;
+top: 1358px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 4px;
+}
+
+.Mr__rect41
+{
+    position: absolute;
+width: 295px;
+height: 165.79px;
+left: 0px;
+top: 8px;
+background: url(Bikes.jpg);
+}
+
+.Mr__rect42
+{
+    position: absolute;
+width: 130px;
+height: 26px;
+left: 20px;
+top: 190px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+
+/* identical to box height */
+
+color: #312E2E;
+}
+
+.Mr__rect43
+{
+    position: absolute;
+left: 55%;
+right: 78.61%;
+top: 61.51%;
+bottom: 62%;
+
+color: #FBBC05;
+}
+
+.Mr__rect44
+{
+    position: absolute;
+    left: 65%;
+    right: 78.61%;
+    top: 61.51%;
+    bottom: 62%;
+color: #FBBC05;
+}
+
+
+.Mr__rect45
+{
+    position: absolute;
+    left: 75%;
+    right: 78.61%;
+    top: 61.51%;
+    bottom: 62%;
+color: #FBBC05;
+}
+
+.Mr__rect4b
+{
+    position: absolute;
+width: 95px;
+height: 30px;
+left: 30%;
+top: 78%;
+
+background: #7A7981;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 4px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+.Mr__rect5
+{
+    
+position: absolute;
+width: 295px;
+height: 313px;
+left: 93px;
+top: 1745px;
+
+
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 4px;
+}
+
+.Mr__rect51
+{
+    position: absolute;
+width: 295px;
+height: 165.79px;
+left: 0px;
+top: 8px;
+background: url(Bikes.jpg);
+}
+
+.Mr__rect52
+{
+    position: absolute;
+width: 130px;
+height: 26px;
+left: 20px;
+top: 190px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+
+/* identical to box height */
+
+color: #312E2E;
+}
+
+.Mr__rect53
+{
+    position: absolute;
+left: 55%;
+right: 78.61%;
+top: 61.51%;
+bottom: 62%;
+
+color: #FBBC05;
+}
+
+.Mr__rect54
+{
+    position: absolute;
+    left: 65%;
+    right: 78.61%;
+    top: 61.51%;
+    bottom: 62%;
+color: #FBBC05;
+}
+
+
+.Mr__rect55
+{
+    position: absolute;
+    left: 75%;
+    right: 78.61%;
+    top: 61.51%;
+    bottom: 62%;
+color: #FBBC05;
+}
+
+.Mr__rect5b
+{
+    position: absolute;
+width: 95px;
+height: 30px;
+left: 30%;
+top: 78%;
+
+background: #7A7981;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 4px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+.Mr__rect6
+{
+    
+position: absolute;
+width: 295px;
+height: 313px;
+left: 496px;
+top: 1745px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 4px;
+}
+
+.Mr__rect61
+{
+    position: absolute;
+width: 295px;
+height: 165.79px;
+left: 0px;
+top: 8px;
+background: url(Bikes.jpg);
+}
+
+.Mr__rect62
+{
+    position: absolute;
+width: 130px;
+height: 26px;
+left: 20px;
+top: 190px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+
+/* identical to box height */
+
+color: #312E2E;
+}
+
+.Mr__rect63
+{
+    position: absolute;
+left: 55%;
+right: 78.61%;
+top: 61.51%;
+bottom: 62%;
+
+color: #FBBC05;
+}
+
+.Mr__rect64
+{
+    position: absolute;
+    left: 65%;
+    right: 78.61%;
+    top: 61.51%;
+    bottom: 62%;
+color: #FBBC05;
+}
+
+
+.Mr__rect65
+{
+    position: absolute;
+    left: 75%;
+    right: 78.61%;
+    top: 61.51%;
+    bottom: 62%;
+color: #FBBC05;
+}
+
+.Mr__rect6b
+{
+    position: absolute;
+width: 95px;
+height: 30px;
+left: 30%;
+top: 78%;
+
+background: #7A7981;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 4px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+
+.Mr__rect7
+{
+    
+position: absolute;
+width: 295px;
+height: 313px;
+left: 901px;
+top: 1745px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 4px;
+}
+
+.Mr__rect71
+{
+    position: absolute;
+width: 295px;
+height: 165.79px;
+left: 0px;
+top: 8px;
+background: url(Bikes.jpg);
+}
+
+.Mr__rect72
+{
+    position: absolute;
+width: 130px;
+height: 26px;
+left: 20px;
+top: 190px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+
+/* identical to box height */
+
+color: #312E2E;
+}
+
+.Mr__rect73
+{
+    position: absolute;
+left: 55%;
+right: 78.61%;
+top: 61.51%;
+bottom: 62%;
+
+color: #FBBC05;
+}
+
+.Mr__rect74
+{
+    position: absolute;
+    left: 65%;
+    right: 78.61%;
+    top: 61.51%;
+    bottom: 62%;
+color: #FBBC05;
+}
+
+
+.Mr__rect75
+{
+    position: absolute;
+    left: 75%;
+    right: 78.61%;
+    top: 61.51%;
+    bottom: 62%;
+color: #FBBC05;
+}
+
+.Mr__rect7b
+{
+    position: absolute;
+width: 95px;
+height: 30px;
+left: 30%;
+top: 78%;
+
+background: #7A7981;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 4px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+
+
+
+.Mr__rect8
+{
+    
+position: absolute;
+width: 295px;
+height: 313px;
+left: 1294px;
+top: 1745px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 4px;
+}
+
+.Mr__rect81
+{
+    position: absolute;
+width: 295px;
+height: 165.79px;
+left: 0px;
+top: 8px;
+background: url(Bikes.jpg);
+}
+
+.Mr__rect82
+{
+    position: absolute;
+width: 130px;
+height: 26px;
+left: 20px;
+top: 190px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+
+/* identical to box height */
+
+color: #312E2E;
+}
+
+.Mr__rect83
+{
+    position: absolute;
+left: 55%;
+right: 78.61%;
+top: 61.51%;
+bottom: 62%;
+
+color: #FBBC05;
+}
+
+.Mr__rect84
+{
+    position: absolute;
+    left: 65%;
+    right: 78.61%;
+    top: 61.51%;
+    bottom: 62%;
+color: #FBBC05;
+}
+
+
+.Mr__rect85
+{
+    position: absolute;
+    left: 75%;
+    right: 78.61%;
+    top: 61.51%;
+    bottom: 62%;
+color: #FBBC05;
+}
+
+.Mr__rect8b
+{
+    position: absolute;
+width: 95px;
+height: 30px;
+left: 30%;
+top: 78%;
+
+background: #7A7981;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 4px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+.Mr__nam3
+{
+    
+position: absolute;
+width: 881px;
+height: 35px;
+left: 671px;
+top: 2243px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 35px;
+text-decoration-line: underline;
+
+color: #C81E2D;
+
+
+}
+
+.Mr__rect9
+{
+    position: absolute;
+width: 295px;
+height: 338px;
+left: 182px;
+top: 2381px;
+
+background-color: #EBEBEB;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.Mr__rect91
+{
+    position: absolute;
+width: 59px;
+height: 26px;
+left: 119px;
+top: 79px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+
+/* identical to box height */
+
+color: #000000;
+
+
+}
+
+.Mr__rect92
+{
+    position: absolute;
+left: 29.42%;
+right: 78.19%;
+top: 40.67%;
+bottom: 38.85%;
+
+color: #C4C816;
+}
+
+.Mr__rect93
+{
+    
+position: absolute;
+width: 25px;
+height: 21px;
+left: 135px;
+top: 139px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+/* identical to box height */
+
+color: #000000;
+}
+
+.Mr__rect94
+{
+    position: absolute;
+width: 106px;
+height: 26px;
+left: 95px;
+top: 179px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+
+/* identical to box height */
+
+color: #000000;
+}
+
+.Mr__rect95
+{
+    position: absolute;
+width: 271px;
+height: 72px;
+left: 41px;
+top: 230px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 200%;
+
+/* or 36px */
+
+color: #23292C
+}
+
+.mr__bik2
+{
+    position: absolute;
+width: 50px;
+height: 100px;
+left: 864px;
+top: 2340px;
+
+background: url(Bikett.png);
+}
+
+.mr__bik3
+{
+    position: absolute;
+width: 50px;
+height: 100px;
+left: 1385px;
+top: 2341px;
+
+background: url(Bikett.png);
+}
+
+.Mr__rect10
+{
+
+    position: absolute;
+    width: 295px;
+    height: 338px;
+    left: 742px;
+    top: 2380px;
+    
+    background: #EBEBEB;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.Mr__rect11
+{
+    position: absolute;
+    width: 295px;
+    height: 338px;
+    left: 1258px;
+    top: 2381px;
+    
+    background: #EBEBEB;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.Mr__nam4
+{
+    
+position: absolute;
+width: 772px;
+height: 35px;
+left: 649px;
+top: 2904px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 35px;
+text-decoration-line: underline;
+
+color: #C81E2D;
+
+
+}
+
+.Mr__but
+{
+    position: absolute;
+width: 205px;
+height: 110px;
+left: 169px;
+top: 3039px;
+background-repeat: no-repeat;
+background: url("tvs.jpg");
+}
+
+.Mr__nam5
+{
+    position: absolute;
+width: 63px;
+height: 29px;
+left: 220px;
+top: 3182px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #000000;
+
+
+}
+
+.Mr__but1
+{
+    position: absolute;
+width: 137px;
+height: 100px;
+left: 456px;
+top: 3050px;
+
+background: url(Hero.png);
+}
+
+
+.Mr__nam6
+{
+    position: absolute;
+width: 74px;
+height: 29px;
+left: 493px;
+top: 3182px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #000000;
+
+
+}
+.Mr__but2 
+{
+    position: absolute;
+width: 107px;
+height: 90px;
+left: 695px;
+top: 3039px;
+background-repeat: no-repeat;
+background: url(Honda.jpg);
+}
+.Mr__nam7
+{
+    position: absolute;
+width: 100px;
+height: 29px;
+left: 708px;
+top: 3185px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #000000;
+
+
+}
+
+.Mr__but3
+{
+    
+position: absolute;
+width: 137px;
+height: 100px;
+left: 934px;
+top: 3060px;
+
+background: url(Re.png);
+}
+
+.Mr__nam8
+{
+    position: absolute;
+width: 195px;
+height: 29px;
+left: 940px;
+top: 3184px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #000000;
+
+
+}
+
+.Mr__but4
+{
+    position: absolute;
+width: 136px;
+height: 90px;
+left: 1185px;
+top: 3060px;
+
+background: url(Bajaj.jpg);
+}
+
+.Mr__nam9
+{
+    
+position: absolute;
+width: 75px;
+height: 29px;
+left: 1239px;
+top: 3182px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #000000;
+}
+
+.Mr__but5
+{
+    position: absolute;
+width: 122px;
+height: 120px;
+left: 1433px;
+top: 3054px;
+
+background: url(Yamaha.jpg);
+}
+
+.Mr__nam10
+{
+    position: absolute;
+width: 125px;
+height: 29px;
+left: 1455px;
+top: 3181px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #000000;
+
+
+}
+
+.Mr__but6
+{
+    position: absolute;
+width: 164px;
+height: 150px;
+left: 663px;
+top: 3360px;
+
+background: url(Ktm.jpg);
+}
+
+.Mr__nam11
+{
+    position: absolute;
+width: 90px;
+height: 29px;
+left: 727px;
+top: 3507px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #000000;
+
+
+}
+
+.Mr__but7
+{
+    
+position: absolute;
+width: 126px;
+height: 84px;
+left: 940px;
+top: 3388px;
+
+background: url(Suzuki.jpg);
+}
+
+.Mr__nam12
+{
+    position: absolute;
+width: 75px;
+height: 29px;
+left: 964px;
+top: 3510px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #000000;
+
+
+}

@@ -1,0 +1,288 @@
+.cbd__nam
+{
+
+    position: absolute;
+    width: 163.62px;
+    height: 31px;
+    left: 100px;
+    top: 1462px;
+    
+    font-family: Metropolis;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 39px;
+    line-height: 39px;
+    
+    color: #242424;
+    
+    
+}
+
+.cbd__nam1
+{
+/* Test drive at your doorstep */
+
+position: absolute;
+width: 599px;
+height: 31px;
+left: 274px;
+top: 1462px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: bold;
+font-size: 39px;
+line-height: 39px;
+
+color: #DB1505;
+
+
+}
+
+.cbd__nam2
+{
+/* Name */
+
+position: absolute;
+width: 85px;
+height: 24.84px;
+left: 100px;
+top: 1572px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 30px;
+
+color: #000000;
+
+
+}
+
+.cbd__inp
+{
+/* Rectangle 439 */
+
+position: absolute;
+width: 780px;
+height: 42px;
+left: 102px;
+top: 1651px;
+
+background: #FFFFFF;
+border: 2px solid #BE0000;
+box-sizing: border-box;
+border-radius: 4px;
+}
+
+.cbd__nam3
+{
+
+/* Contact Number */
+
+position: absolute;
+width: 238px;
+height: 23.69px;
+left: 100px;
+top: 1716px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 30px;
+
+color: #000000;
+
+
+}
+
+.cbd__inp1
+{
+/* Rectangle 441 */
+
+position: absolute;
+width: 325px;
+height: 42px;
+left: 100px;
+top: 1794px;
+
+background: #FFFFFF;
+border: 2px solid #BE0000;
+box-sizing: border-box;
+border-radius: 4px;
+}
+
+.cbd__nam4
+{
+/* Street Address */
+
+position: absolute;
+width: 217px;
+height: 23.94px;
+left: 100px;
+top: 1859px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 30px;
+
+color: #000000;
+
+
+}
+
+.cbd__inp2
+{
+
+    position: absolute;
+    width: 780px;
+    height: 81px;
+    left: 102px;
+    top: 1937px;
+    
+    background: #FFFFFF;
+    border: 2px solid #BE0000;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.cbd__nam5
+
+{
+/* City */
+
+position: absolute;
+width: 57px;
+height: 24.17px;
+left: 100px;
+top: 2051.09px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 30px;
+
+color: #000000;
+
+
+}
+
+
+.cbd__inp3
+{
+/* Rectangle 444 */
+
+position: absolute;
+width: 325px;
+height: 42px;
+left: 100px;
+top: 2121px;
+
+background: #FFFFFF;
+border: 2px solid #BE0000;
+box-sizing: border-box;
+border-radius: 4px;
+}
+
+
+.cbd__nam6
+{
+/* PIN Code */
+
+position: absolute;
+width: 135px;
+height: 23.76px;
+left: 100px;
+top: 2186px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 30px;
+
+color: #000000;
+
+
+}
+
+.cbd__inp4
+{
+
+    position: absolute;
+    width: 325px;
+    height: 42px;
+    left: 100px;
+    top: 2264px;
+    
+    background: #FFFFFF;
+    border: 2px solid #BE0000;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.cbd__nam7
+{
+    /* Near by Landmark */
+
+position: absolute;
+width: 267px;
+height: 23.2px;
+left: 102px;
+top: 2329px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 30px;
+
+color: #000000;
+
+
+}
+
+.cbd__inp5
+{
+/* Rectangle 448 */
+
+position: absolute;
+width: 325px;
+height: 42px;
+left: 102px;
+top: 2407px;
+
+background: #FFFFFF;
+border: 2px solid #BE0000;
+box-sizing: border-box;
+border-radius: 4px;
+}
+
+.cbd__b1
+{
+/* Rectangle 401 */
+
+position: absolute;
+width: 143.5px;
+height: 40.07px;
+left: 68px;
+top: 2686px;
+
+background: #BD002C;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 2px;
+font-family: Metropolis;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+}

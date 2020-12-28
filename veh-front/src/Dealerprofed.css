@@ -1,0 +1,356 @@
+.dpe__main
+{
+    position: absolute;
+width: 1444px;
+height: 1325px;
+left: -1px;
+top: 146px;
+
+background-color: grey;
+}
+
+.dpe__p1
+{
+    position: absolute;
+    width: 1244px;
+    height: 725px;
+    left: 100px;
+    top: 256px;
+    background-color: white;
+}
+.dpe__nam
+{
+    position: absolute;
+width: 831px;
+height: 32px;
+left: 70px;
+top: 24px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 32px;
+
+/* identical to box height */
+
+color: #393D45;
+
+
+}
+
+.dpe__img
+{
+    
+position: absolute;
+width: 192px;
+height: 208px;
+left: 110px;
+top: 111px;
+
+background-repeat: repeat;
+background: url(ue.png);
+border-radius: 2px;
+}
+
+.dpe__sqr
+{
+    position: absolute;
+left: 9.33%;
+right: 8.33%;
+top: 16.33%;
+bottom: 8.33%;
+
+color: #000000;
+}
+
+.dpe__penc
+{
+    position: absolute;
+left: 10.17%;
+
+top: 18.74%;
+
+
+color: #000000;
+}
+
+.dpe__dot
+{
+    position: absolute;
+    left: 11.27%;
+    
+    top: 17.74%;
+    
+    
+    color: #000000;
+}
+
+.dpe__nam1
+{
+    
+position: absolute;
+width: 534px;
+height: 34px;
+left: 458px;
+top: 86px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: 600;
+font-size: 34px;
+line-height: 34px;
+
+/* identical to box height */
+
+color: #393D45;
+
+
+}
+
+.dpe__loc
+{
+    position: absolute;
+left: 16.67%;
+right: 16.67%;
+left: 698px;
+top: 122px;
+
+color: #463E3E;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.dpe__nam2
+{
+    position: absolute;
+width: 96px;
+height: 14px;
+left: 748px;
+top: 119px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 14px;
+
+/* identical to box height */
+
+color: #463E3E;
+
+
+}
+
+.dpe__log
+{
+    position: absolute;
+    left: 460px;
+top: 172px;
+    
+    color: #393D45;
+}
+
+.dpe__nam3
+{
+    position: absolute;
+width: 67px;
+height: 22px;
+left: 480px;
+top: 145px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 22px;
+
+/* identical to box height */
+
+color: #393D45;
+
+
+}
+
+.dpe__lin
+{
+    position: absolute;
+width: 109px;
+height: 0px;
+left: 455px;
+top: 194px;
+
+border: 4px solid #C0042D;
+}
+
+.dpe__lin1
+{
+    position: absolute;
+width: 779px;
+height: 0px;
+left: 451px;
+top: 237px;
+
+border: 1px solid #716A6A;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.dpe__nam4
+{
+    position: absolute;
+width: 210px;
+height: 22px;
+left: 450px;
+top: 220px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 22px;
+
+/* identical to box height */
+
+color: #393D45;
+}
+
+.dpe__nam5
+{
+    position: absolute;
+width: 90px;
+height: 20px;
+left: 450px;
+top: 270px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 20px;
+
+/* identical to box height */
+
+color: #000000;
+
+
+}
+.dpe__inp{
+    position: absolute;
+    width: 266px;
+    height: 30px;
+left: 550px;
+top: 289px;
+
+
+
+background: #FFFFFF;
+border: 2px solid #BE0000;
+box-sizing: border-box;
+border-radius: 4px;
+
+}
+
+
+.dpe__phn
+{
+    
+position: absolute;
+width: 175px;
+height: 30px;
+left: 550px;
+top: 332px;
+background: #FFFFFF;
+border: 2px solid #BE0000;
+box-sizing: border-box;
+border-radius: 4px;
+
+
+}
+
+.dpe__nam6
+{
+    position: absolute;
+width: 91px;
+height: 20px;
+left: 450px;
+top: 312px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 20px;
+
+/* identical to box height */
+
+color: #000000;
+
+
+}
+
+.dpe__nam7
+{
+    position: absolute;
+width: 319px;
+height: 50px;
+left: 450px;
+top: 362px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 18px;
+
+color: #000000;
+
+
+}
+
+.dpe__nam8
+{
+        
+    position: absolute;
+    width: 647px;
+    height: 30px;
+    left: 550px;
+    top: 372px;
+    background: #FFFFFF;
+    border: 2px solid #BE0000;
+    box-sizing: border-box;
+    border-radius: 4px;
+
+
+}
+
+.dpe__nam9
+{
+    position: absolute;
+    width: 319px;
+    height: 16px;
+    left: 450px;
+    top: 408px;
+    
+    font-family: Metropolis;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 18px;
+    
+    color: #C0042D;
+    
+    
+}
+
+.dpe__nam10
+{
+    position: absolute;
+width: 239px;
+height: 30px;
+left: 550px;
+top: 422px;
+
+background: #FFFFFF;
+border: 2px solid #BE0000;
+box-sizing: border-box;
+border-radius: 4px;
+
+}

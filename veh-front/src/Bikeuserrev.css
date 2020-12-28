@@ -1,0 +1,775 @@
+
+.Bur__img
+{
+    
+position: absolute;
+width: 500px;
+height: 431px;
+left: 58px;
+top: 282px;
+}
+
+.Bur__ar1
+{
+    
+position: absolute;
+left: 98px;
+
+top: 410px;
+
+
+
+border-radius: 4px;
+
+}
+
+.Bur__ar2
+{
+    position: absolute;
+    left: 508px;
+
+    top: 410px;
+
+
+border-radius: 4px;
+}
+
+.Bur__sym
+{
+    position: absolute;
+    left: 598px;
+
+    top: 310px;
+
+}
+
+.Bur__nam
+{
+    position: absolute;
+width: 35px;
+height: 29px;
+left: 648px;
+top: 287px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #000000;
+
+
+}
+
+.Bur__nam1 {
+    position: absolute;
+width: 148px;
+height: 29px;
+left: 609px;
+top: 361px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 29px;
+
+color: #000000;
+
+
+}
+.Bur__nam2
+{
+    position: absolute;
+width: 682px;
+height: 144px;
+left: 560px;
+top: 420px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 200%;
+
+/* or 44px */
+text-align: center;
+
+color: #23292C;
+
+
+}
+.Bur__nam3
+{
+    position: absolute;
+    width: 682px;
+    height: 144px;
+    left: 560px;
+    top: 479px;
+    
+    font-family: Metropolis;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 200%;
+    
+    /* or 44px */
+    text-align: center;
+    
+    color: #23292C;
+    
+    
+}
+
+.Bur__nam4 
+{
+    position: absolute;
+    width: 682px;
+    height: 144px;
+    left: 560px;
+    top: 529px;
+    
+    font-family: Metropolis;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 200%;
+    
+    /* or 44px */
+    text-align: center;
+    
+    color: #23292C;
+    
+    
+}
+
+.Bur__nam5 
+{
+    position: absolute;
+    width: 682px;
+    height: 144px;
+    left: 560px;
+    top: 584px;
+    
+    font-family: Metropolis;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 200%;
+    
+    /* or 44px */
+    text-align: center;
+    
+    color: #23292C;
+    
+    
+}
+
+.Bur__sym1
+{
+    position: absolute;
+    left: 603px;
+    top: 690px;
+
+color: #000000;
+}
+
+.Bur__nam6
+{
+    position: absolute;
+width: 91px;
+height: 35px;
+left: 643px;
+top: 657px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: #000000;
+
+
+}
+
+.Bur__nam7
+{
+    position: absolute;
+width: 141px;
+height: 29px;
+left: 601px;
+top: 727px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 29px;
+
+color: #000000;
+
+
+}
+
+.Bur__nam8
+{
+
+    position: absolute;
+    width: 682px;
+    height: 144px;
+    left: 554px;
+    top: 785px;
+    
+    font-family: Metropolis;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 200%;
+    
+    /* or 44px */
+    text-align: center;
+    
+    color: #23292C;
+    
+    
+}
+
+.Bur__nam9
+{
+    position: absolute;
+    width: 682px;
+    height: 144px;
+    left: 554px;
+    top: 840px;
+    
+    font-family: Metropolis;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 200%;
+    
+    /* or 44px */
+    text-align: center;
+    
+    color: #23292C;
+    
+    
+}
+
+.Bur__nam10
+{
+
+    position: absolute;
+    width: 682px;
+    height: 144px;
+    left: 554px;
+    top: 894px;
+    
+    font-family: Metropolis;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 200%;
+    
+    /* or 44px */
+    text-align: center;
+    
+    color: #23292C;
+    
+    
+}
+
+.Bur__nam11 
+{
+    position: absolute;
+    width: 682px;
+    height: 144px;
+    left: 554px;
+    top: 949px;
+    
+    font-family: Metropolis;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 200%;
+    
+    /* or 44px */
+    text-align: center;
+    
+    color: #23292C;
+    
+    
+}
+
+.Bur__nam12
+{
+    
+position: absolute;
+width: 575px;
+height: 35px;
+left: 555px;
+top: 1367px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 35px;
+
+color: #000000;
+
+
+}
+
+
+
+.Bur__rect1
+{
+    
+position: absolute;
+width: 295px;
+height: 434px;
+left: 83px;
+top: 1554px;
+
+background-color: #EBEBEB;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.Bur__circ1 
+{
+    position: absolute;
+width: 150px;
+height: 150px;
+left: 155px;
+top: 1478px;
+
+color: #C4C4C4;
+}
+
+.Bur__rect2
+{
+    
+
+    position: absolute;
+    width: 295px;
+    height: 429px;
+    left: 407px;
+    top: 1559px;
+    
+    background: #EBEBEB;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.Bur__circ2 
+{
+    /* Ellipse 100 */
+
+position: absolute;
+width: 150px;
+height: 150px;
+left: 479px;
+top: 1483px;
+
+color: #C4C4C4;
+}
+.Bur__rect3
+{
+    
+/* Rectangle 410 */
+
+position: absolute;
+width: 295px;
+height: 426px;
+left: 742px;
+top: 1562px;
+
+background: #EBEBEB;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.Bur__circ3 
+{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 814px;
+    top: 1486px;
+    
+    color: #C4C4C4;
+}
+.Bur__rect4
+{
+    
+
+    position: absolute;
+    width: 295px;
+    height: 421px;
+    left: 1066px;
+    top: 1567px;
+    
+    background: #EBEBEB;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.Bur__circ4 
+{
+ 
+position: absolute;
+width: 150px;
+height: 150px;
+left: 1138px;
+top: 1491px;
+
+color: #C4C4C4;
+}
+
+.Bur__nam13
+{
+    position: absolute;
+width: 59px;
+height: 26px;
+left: 200px;
+top: 1632px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+
+/* identical to box height */
+
+color: #000000;
+
+
+}
+
+.Bur__nam25
+{
+    
+position: absolute;
+width: 25px;
+height: 21px;
+left: 222px;
+top: 1669px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+/* identical to box height */
+
+color: #000000;
+
+
+}
+
+.Bur__nam14
+{
+    position: absolute;
+width: 55px;
+height: 26px;
+left: 200px;
+top: 1703px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+
+/* identical to box height */
+
+color: #000000;
+
+
+}
+
+.Bur__nam15
+{
+    position: absolute;
+width: 271px;
+height: 72px;
+left: 112px;
+top: 1778px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 200%;
+
+/* or 36px */
+
+color: #23292C;
+
+
+}
+
+.Bur__nam16
+{
+    position: absolute;
+    width: 59px;
+    height: 26px;
+    left: 524px;
+    top: 1637px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    
+    /* identical to box height */
+    
+    color: #000000;
+    
+    
+
+
+}
+.Bur__nam26{
+    
+position: absolute;
+width: 25px;
+height: 21px;
+left: 546px;
+top: 1674px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+/* identical to box height */
+
+color: #000000;
+
+
+}
+.Bur__nam17
+{
+
+    position: absolute;
+    width: 55px;
+    height: 26px;
+    left: 524px;
+    top: 1708px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    
+    /* identical to box height */
+    
+    color: #000000;
+    
+    
+
+
+}
+
+.Bur__nam18
+{
+ 
+position: absolute;
+width: 271px;
+height: 72px;
+left: 436px;
+top: 1783px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 200%;
+
+/* or 36px */
+
+color: #23292C;
+
+
+
+
+}
+
+
+.Bur__nam19
+{
+    position: absolute;
+    width: 59px;
+    height: 26px;
+    left: 859px;
+    top: 1640px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    
+    /* identical to box height */
+    
+    color: #000000;
+    
+    
+
+
+}
+
+.Bur__nam27
+{
+    position: absolute;
+width: 25px;
+height: 21px;
+left: 881px;
+top: 1677px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+/* identical to box height */
+
+color: #000000;
+}
+
+.Bur__nam20
+{
+  
+position: absolute;
+width: 55px;
+height: 26px;
+left: 859px;
+top: 1711px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+
+/* identical to box height */
+
+color: #000000;
+
+
+
+}
+
+.Bur__nam21
+{
+    position: absolute;
+    width: 271px;
+    height: 72px;
+    left: 771px;
+    top: 1786px;
+    
+    font-family: Metropolis;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 200%;
+    
+    /* or 36px */
+    
+    color: #23292C;
+    
+    
+
+
+}
+
+.Bur__nam22
+{
+
+    position: absolute;
+    width: 59px;
+    height: 26px;
+    left: 1183px;
+    top: 1645px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    
+    /* identical to box height */
+    
+    color: #000000;
+    
+    
+
+}
+
+.Bur__nam28
+{
+    position: absolute;
+width: 25px;
+height: 21px;
+left: 1205px;
+top: 1682px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+/* identical to box height */
+
+color: #000000;
+
+
+}
+.Bur__nam23
+{
+    position: absolute;
+    width: 55px;
+    height: 26px;
+    left: 1183px;
+    top: 1716px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    
+    /* identical to box height */
+    
+    color: #000000;
+    
+    
+
+
+}
+
+.Bur__nam24
+{
+    position: absolute;
+    width: 271px;
+    height: 72px;
+    left: 1095px;
+    top: 1791px;
+    
+    font-family: Metropolis;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 200%;
+    
+    /* or 36px */
+    
+    color: #23292C;
+    
+    
+
+}

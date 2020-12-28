@@ -1,0 +1,269 @@
+.parallelogram1
+ {
+    width: 1194px;
+    height: 59px;
+    margin: 0 0 0 -20px;
+    -webkit-transform: skew(-30deg);
+    -moz-transform: skew(-30deg);
+    -o-transform: skew(-30deg);
+    
+background: #393D45;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .parallelogram2
+  {
+
+    position: absolute;
+    display: block;
+    width: 626px;
+height: 59px;
+    top: 0;
+    left: 1114px;
+    z-index: -1;
+    background: #FF0000;
+    transform-origin: bottom left;
+    -ms-transform: skew(-30deg, 0deg);
+    -webkit-transform: skew(-30deg, 0deg);
+    transform: skew(-30deg, 0deg);
+}
+
+ .header__phn
+ {
+    position: absolute;
+    left: 48.97%;
+    right: 57.99%;
+    top: 2.43%;
+
+
+    
+    color: #DB1505;
+ }
+
+ .header__phnnum
+ {
+    position: absolute;
+    width: 126px;
+    height: 16px;
+    left: 853px;
+    top: 22px;
+    
+    font-family: Metropolis;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 16px;
+    
+    /* identical to box height */
+    
+    color: #FFFFFF;
+ }
+
+ .header__clk
+ {
+    position: absolute;
+    left: 1010px;
+    
+    top: 2.1%;
+    
+    
+    border: 2px solid #DB1505;
+ }
+
+ .header__clknum
+ {
+    position: absolute;
+    width: 101px;
+    height: 16px;
+    left: 1056px;
+    top: 22px;
+    
+    font-family: Metropolis;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 16px;
+    
+    /* identical to box height */
+    
+    color: #FFFFFF;
+ }
+
+ .header__nam1
+ {
+     position: absolute;
+    width: 57px;
+    height: 19px;
+    left: 1228px;
+    top: 21px;
+    
+    font-family: Metropolis;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 19px;
+    
+    /* identical to box height */
+    
+    color: #FFFFFF;
+    
+    
+ }
+ .header__nam2
+ {
+     
+position: absolute;
+width: 6px;
+height: 19px;
+left: 1288px;
+top: 20px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: normal;
+font-size: 19px;
+line-height: 19px;
+
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+ }
+
+ .header__nam3
+ {
+    position: absolute;
+    width: 177px;
+    height: 19px;
+    left: 1297px;
+    top: 21px;
+    
+    font-family: Metropolis;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 19px;
+    
+    /* identical to box height */
+    
+    color: #FFFFFF;
+    
+    
+ }
+ .header__nam4
+ {
+    position: absolute;
+    width: 106px;
+    height: 16px;
+    left: 1553px;
+    top: 22px;
+    
+    font-family: Metropolis;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 16px;
+    
+    /* identical to box height */
+    
+    color: #FFFFFF;
+ }
+ 
+@media screen and (max-width: 900px) {
+    .parallelogram1 {
+       width: 500px;
+    }
+    .parallelogram2
+    {
+        width: 326;
+        left: 452px;
+    }
+    .header__phn
+    {
+        left:150px;
+    }
+    .header__phnnum
+    {
+        left: 180px;
+    }
+    .header__clk
+    {
+        left: 320px;
+    }
+
+    .header__clknum
+    {
+        left: 360px;
+    }
+    .header__nam1
+    {
+        left: 510px;
+    }
+    .header__nam2
+    {
+        left: 565px;
+    }
+    .header__nam3
+    {
+        left: 575px;
+    }
+    .header__nam4
+    {
+        left: 785px;
+    }
+ }
+ @media screen and (max-width: 600px) {
+     .header
+     {
+         width: 600px;
+     }
+    .parallelogram1 {
+       width: 280px;
+    }
+    .parallelogram2
+    {
+        left: 220px;
+    }
+    .header__phn
+    {
+        left: 40px;
+    }
+    .header__phnnum
+
+    {
+        left: 62px;
+        font-size: x-small;
+    }
+    .header__clk
+    {
+        left: 152px;
+    }
+    .header__clknum
+    {
+        left: 182px;
+        font-size: x-small;
+    }
+    .header__nam1
+    {
+        left: 280px;
+        font-size: x-small;
+    }
+    .header__nam2
+    {
+        left: 310px;
+        font-size: x-small;
+    }
+    .header__nam3
+    {
+        left: 315px;
+        font-size: x-small;
+    }
+    .header__nam4
+    {
+        left: 425px;
+        font-size: x-small;
+    }
+
+ }

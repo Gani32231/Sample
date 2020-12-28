@@ -1,0 +1,148 @@
+.signup__main
+{
+    position: absolute;
+    width: 1237.82px;
+    height: 1270.45px;
+    left: 109.57px;
+    top: 274.86px;
+    
+    background: #9F9F9F;
+}
+
+.signup__log
+{
+    position: absolute;
+    width: 189px;
+    height: 302px;
+    left: 651px;
+    top: 298px;
+    
+    background: url(TT.png);
+}
+
+.signup__nam
+{
+    position: absolute;
+    width: 122.22px;
+    height: 31.53px;
+    left: 689.39px;
+    top: 537px;
+    
+    font-family: Metropolis;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 35px;
+    
+    color: #D6171F;
+    
+    
+}
+.signup__log1
+{
+    position: absolute;
+width: 185px;
+height: 0px;
+left: 653px;
+top: 613px;
+
+border: 1px solid #D6171F;
+transform: rotate(180deg);
+}
+
+.signup__inp
+{
+    position: absolute;
+width: 709px;
+height: 69px;
+left: 382px;
+top: 682px;
+
+background: #F3F3F3;
+border: 0.5px solid #D7C7C7;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 4px;
+}
+.signup__inp1
+{
+    position: absolute;
+width: 709px;
+height: 69px;
+left: 379px;
+top: 780px;
+
+background: #F3F3F3;
+border: 0.5px solid #D7C7C7;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 4px;
+}
+
+.signup__inp2
+{
+    position: absolute;
+    width: 709px;
+    height: 69px;
+    left: 379px;
+    top: 882px;
+    
+    background: #F3F3F3;
+    border: 0.5px solid #D7C7C7;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+}
+
+.signup__chk
+{
+    position: absolute;
+width: 25px;
+height: 25px;
+left: 404px;
+top: 1022px;
+
+background: #FEFEFE;
+}
+
+.signup__nam1
+{
+    position: absolute;
+    width: 605px;
+    height: 27px;
+    left: 445px;
+    top: 1004px;
+    
+    font-family: Metropolis;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 22px;
+    
+    color: #000000;
+
+}
+
+.signup__b1
+{
+    position: absolute;
+    width: 266px;
+    height: 56px;
+    left: 614px;
+    top: 1178px;
+    
+    background: #F3F3F3;
+    border: 0.5px solid #D7C7C7;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+font-family: Metropolis;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 28px;
+
+color: #D6171F;
+
+
+}

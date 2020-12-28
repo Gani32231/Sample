@@ -1,0 +1,88 @@
+.bkdrv__ic
+{
+    
+position: absolute;
+left: 44.17%;
+
+top: 148.1%;
+
+
+color: #10C422;
+}
+
+.bkdrv__nam
+{
+    /* Your Doorstep test drive is confirmed our associate will contact you shortly Thank you. for queries email at */
+
+position: absolute;
+width: 811px;
+height: 425px;
+left: 330px;
+top: 1624px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 50px;
+line-height: 59px;
+
+color: #000000;
+}
+.bkdrv__nam1
+{
+    /* Your Doorstep test drive is confirmed our associate will contact you shortly Thank you. for queries email at */
+
+position: absolute;
+width: 811px;
+height: 425px;
+left: 330px;
+top: 1784px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 50px;
+line-height: 59px;
+
+color: #000000;
+}
+.bkdrv__nam2
+{
+    /* Your Doorstep test drive is confirmed our associate will contact you shortly Thank you. for queries email at */
+
+position: absolute;
+width: 811px;
+height: 425px;
+left: 330px;
+top: 1884px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 50px;
+line-height: 59px;
+
+color: #000000;
+}
+
+.bkdrv__nam3
+{
+    
+position: absolute;
+width: 502px;
+height: 59px;
+left: 485px;
+top: 1949px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 50px;
+line-height: 59px;
+
+/* identical to box height */
+
+color: #000000;
+
+
+}

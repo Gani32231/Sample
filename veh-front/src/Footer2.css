@@ -1,0 +1,420 @@
+.footer2__main
+{
+    position: absolute;
+    width: 1673px;
+    height: 429px;
+    left: -7px;
+
+    top: 3560.5px;
+    background: #020202;
+}
+
+p.footer__name {
+    position: absolute;
+width: 174.67px;
+height: 44px;
+left: 55px;
+top: 35px;
+
+font-family: Karla;
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 33px;
+
+color: orange;
+
+
+}
+
+.footer__name1 {
+    position: absolute;
+width: 121px;
+height: 20px;
+left: 55px;
+top: 115px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 20px;
+
+/* identical to box height */
+
+color: orange;
+
+
+}
+
+.footer__name2 {
+    position: absolute;
+width: 219px;
+height: 38px;
+left: 55px;
+top: 175px;
+font-family: Karla;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+color: orange;
+}
+
+.footer__name3
+
+{
+    position: absolute;
+width: 121px;
+height: 20px;
+left: 55px;
+top: 295px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 20px;
+
+/* identical to box height */
+
+color: #DB1505;
+
+
+}
+
+.footer__log {
+    
+position: absolute;
+left: 56px;
+top: 335px;
+
+color: #DB1505;
+}
+
+.footer__name4 {
+    position: absolute;
+width: 171px;
+height: 30px;
+left: 85px;
+top: 320px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 200%;
+
+/* identical to box height, or 30px */
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+
+.footer__log1 {
+    position: absolute;
+    left: 55px;
+    top: 360px;
+color: #DB1505;
+}
+
+.footer__log1__nn
+{
+    position: absolute;
+left: 4.03%;
+right: 8.33%;
+top: 83.33%;
+bottom: 54.17%;
+
+color: #DB1505;
+}
+
+.footer__name5 {
+    position: absolute;
+width: 180px;
+height: 18px;
+left: 75px;
+top: 362px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 18px;
+
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+
+.footer__img {
+    position: absolute;
+width: 240px;
+height: 317px;
+left: 615px;
+top: 62px;
+
+background: url(TT.png);
+}
+
+.footer__name6 
+{
+    position: absolute;
+width: 121px;
+height: 20px;
+left: 1050px;
+top: 99px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 20p
+x;
+
+/* identical to box height */
+
+color: #DB1505;
+
+
+}
+
+.footer__circ1
+{
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 1051px;
+    top: 145.28px;
+    
+    
+}
+
+.footer__icon1
+{
+    /* Vector */
+
+position: absolute;
+left: 8px;
+top: 8px;
+color: #FFFFFF;
+font-size: small;
+
+}
+
+.footer__circ2
+{
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 1101px;
+    top: 145.28px;
+    
+    
+}
+.footer__icon2
+{
+    /* Vector */
+
+position: absolute;
+left: 8px;
+top: 8px;
+color: #FFFFFF;
+font-size: small;
+
+}
+.footer__circ3 {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 1151px;
+    top: 145.28px;
+}
+
+.footer__icon3
+{
+    /* Vector */
+
+position: absolute;
+top: 11px;
+left: 12px;
+color: #FFFFFF;
+font-size: small;
+
+}
+
+.footer__icon31
+{
+    /* Vector */
+
+position: absolute;
+top: 10px;
+left: 19px;
+color: #FFFFFF;
+font-size: small;
+
+}
+
+.footer__icon32
+{
+    /* Vector */
+
+position: absolute;
+top: 8px;
+left: 8px;
+color: #FFFFFF;
+font-size: small;
+
+}
+
+.footer__circ4 {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 1201px;
+    top: 145.28px;
+}
+.footer__icon4
+{
+    /* Vector */
+
+position: absolute;
+left: 8px;
+top: 8px;
+color: #FFFFFF;
+font-size: small;
+
+}
+.footer__name7
+{
+    
+position: absolute;
+width: 121px;
+height: 20px;
+left: 1401px;
+top: 103px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 20px;
+
+/* identical to box height */
+
+color: #DB1505;
+
+
+}
+
+.footer__name8
+{
+    /* Register Yourself */
+
+position: absolute;
+width: 172px;
+height: 16px;
+left: 1401px;
+top: 153px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 16px;
+
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+}
+.footer__rect
+{
+    /* Rectangle 172 */
+
+position: absolute;
+width: 222px;
+height: 35px;
+left: 1401px;
+top: 190px;
+
+background: #F2F2F2;
+border-radius: 5px;
+}
+.footer__mail {
+    position: absolute;
+    left: 1411px;
+    top: 205px;
+
+color: #DB1505;
+}
+
+.footer__mnam {
+    /* Enter your E-Mail */
+
+position: absolute;
+width: 120px;
+height: 14px;
+left: 1446px;
+top: 205px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 14px;
+
+/* identical to box height */
+
+color: black;
+}
+.footer__rect2 {
+    /* Rectangle 173 */
+
+position: absolute;
+width: 105px;
+height: 27px;
+left: 1401px;
+top: 250px;
+background-color: #DB1505;
+border-radius: 5px;
+
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+line-height: 13px;
+
+/* identical to box height */
+
+color: white;
+
+}
+
+.footer__name10 {
+    /* Trigger©2020 All Rights Reserved */
+
+position: absolute;
+width: 321px;
+height: 22px;
+left: 1401px;
+top: 375px;
+
+font-family: Metropolis;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+}
